@@ -30,11 +30,6 @@ This application will serve as a hands-on platform for exploring key concepts su
 - [x] Post creation
 - [x] Ability to like user posts
 - [x] View other users profiles
-- [ ] Account deletion
-- [ ] Post editing and deletion
-- [ ] Search for other users profiles
-- [ ] Post comments
-- [ ] Follow users
 
 ---
 
